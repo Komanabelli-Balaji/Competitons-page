@@ -2648,7 +2648,7 @@ figure {
     justify-content: center;
     align-items: center;
     margin-top: 40px;
-    padding: 15px 25px;
+    padding: 5px 25px;
 }
 
 .nav-dropdown-icon {
@@ -7297,7 +7297,7 @@ figure {
     }
     .navbar-container {
         margin-top: 60px;
-        padding: 28px 51px;
+        padding: 5px 51px;
     }
     .footer-middle-item {
         grid-column-gap: 158px;
@@ -7619,8 +7619,8 @@ figure {
         max-width: 100%;
     }
     .navbar-container {
-        padding-top: 15px;
-        padding-bottom: 15px;
+        /* padding-top: 15px;
+        padding-bottom: 15px; */
     }
     .nav-dropdown-icon {
         right: -30px;
@@ -7682,7 +7682,7 @@ figure {
         display: none;
     }
     .navbar-brand {
-        width: auto;
+        width: 60px;
     }
     .footer-widget-list {
         grid-column-gap: 15px;
