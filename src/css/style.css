@@ -2720,6 +2720,7 @@ figure {
 }
 
 .nav-dropdown-wrapper {
+    width: 330px;
     grid-column-gap: 12px;
     grid-row-gap: 12px;
     background-color: var(--background--common-bg);
